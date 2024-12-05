@@ -1,7 +1,7 @@
 # AotoEncoder
 This project highlights various types of autoencoders and their applications across different tasks.
 
-
+## Introduction:
 Autoencoders are a type of artificial neural network used in deep learning to learn efficient representations of data, typically for the purpose of dimensionality reduction or data compression. Here's a brief overview:
 # What is an Autoencoder?
 An autoencoder consists of two main parts:
